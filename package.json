@@ -1,0 +1,17 @@
+{
+  "name": "telegram-price-crypto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Luthfi Abdul Azis",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "dotenv": "^14.3.0",
+    "telegraf": "^4.6.0"
+  }
+}
